@@ -1,0 +1,4 @@
+[0721/162511.596:ERROR:settings.cc(363)] Settings version is not 1
+[0721/163215.123:ERROR:settings.cc(363)] Settings version is not 1
+[0721/163306.361:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)
+[0721/163316.475:ERROR:registration_protocol_win.cc(107)] CreateFile: The system cannot find the file specified. (0x2)

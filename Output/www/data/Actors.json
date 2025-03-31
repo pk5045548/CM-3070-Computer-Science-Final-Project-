@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"","classId":1,"equips":[1,1,2,1],"faceIndex":0,"faceName":"Tintanys","traits":[],"initialLevel":1,"maxLevel":99,"name":"Titan","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"Charset-Purple","classId":2,"equips":[25,26,25,0],"faceIndex":0,"faceName":"SisiPurple","traits":[{"code":13,"dataId":9,"value":1.5}],"initialLevel":1,"maxLevel":99,"name":"Sisi","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Charset-Base","classId":3,"equips":[3,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
